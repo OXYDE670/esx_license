@@ -1,9 +1,7 @@
 # esx_license
 
-
-
 ### Manually
-- Download 
+- Download https://github.com/OXYDE670/esx_license
 - Mettez-le dans le `[esx]`
 
 ## Installation
@@ -13,5 +11,3 @@
 ```
 start esx_license
 ```
-
-
